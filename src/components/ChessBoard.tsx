@@ -43,7 +43,7 @@ export function ChessBoard({ morphProgress, gameState, boardMaterial, onlineCont
       for (let file = 0; file < boardSize; file++) {
         const x = (file - boardSize / 2 + 0.5) * squareSize
         const z = (rank - boardSize / 2 + 0.5) * squareSize
-        const isLight = (rank + file) % 2 === 0
+        const isLight = (rank + file) % 2 === 1
         result.push({ position: [x, 0, z], isLight, file, rank })
       }
     }
