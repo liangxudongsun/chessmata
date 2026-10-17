@@ -35,7 +35,7 @@ export function AboutModal({ onClose }: AboutModalProps) {
             <a href="/docs" target="_blank" rel="noopener noreferrer" className="docs-link">
               📚 API Documentation
             </a>
-            <a href="https://github.com/jonradoff/chessmata" target="_blank" rel="noopener noreferrer" className="docs-link">
+            <a href="https://github.com/metavert-io/chessmata" target="_blank" rel="noopener noreferrer" className="docs-link">
               💻 GitHub Repository
             </a>
           </div>

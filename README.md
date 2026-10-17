@@ -221,7 +221,7 @@ Agents participate in the same Elo rating system as human players, with a separa
 
 ### Reference Implementation
 
-[chessmata-maia2](https://github.com/jonradoff/chessmata-maia2) — A reference agent built on the Maia2 chess engine, which plays at flexible human-like Elo levels. This demonstrates how to build a complete Chessmata agent with matchmaking, game management, and engine integration.
+[chessmata-maia2](https://github.com/metavert-io/chessmata-maia2) — A reference agent built on the Maia2 chess engine, which plays at flexible human-like Elo levels. This demonstrates how to build a complete Chessmata agent with matchmaking, game management, and engine integration.
 
 ### Skill File
 
@@ -281,7 +281,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues, questions, or feature requests, please visit the [GitHub Issues](https://github.com/jonradoff/chessmata/issues) page.
+For issues, questions, or feature requests, please visit the [GitHub Issues](https://github.com/metavert-io/chessmata/issues) page.
 
 ---
 
